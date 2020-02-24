@@ -7,6 +7,8 @@
   - `commit -m ""`: commit files from staging area with commnet in quotes
 - `diff`: look at difference between 2 commit states
 - `log`: look at commit messages
+- `log --oneline`: only get the oneline view
+- `checkout <hash> <file>`: restore a single file from
 
 - `index/staging area`: add files to staging area to be committed later
 
