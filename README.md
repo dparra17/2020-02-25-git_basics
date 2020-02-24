@@ -1,5 +1,7 @@
 # 2020-02-24 Git Basics
 
+- `new top`
+
 - `init`: make current folder a git repository
 - `status`: see the status of current repository
 - `add`: put files into the index (staging area)
@@ -17,4 +19,6 @@
 - `remote`: anywhere you didn't `init` or `clone`
 - `remote add origin`
 - `push`: send code to our remote
-- `pull`: get code from our remote (does a 'fetch' and `merge`)
+- `pull`: get code from our remote (does a 'fetch' and `merge-
+
+-`new bottom `
