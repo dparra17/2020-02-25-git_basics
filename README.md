@@ -12,6 +12,8 @@
 
 - `index/staging area`: add files to staging area to be committed later
 
+## Remotes
+
 - `remote`: anywhere you didn't `init` or `clone`
 - `remote add origin`
 - `push`: send code to our remote
